@@ -53,10 +53,10 @@ Use before the game starts.
 Inside `config.yml`:
 
 ```yaml
-pos-wall:
-  - "pos1"
-  - "pos2"
-guards-enabled: true
+positions:
+  walls:
+   - "pos1"
+   - "pos2"
 ```
 
 ---
