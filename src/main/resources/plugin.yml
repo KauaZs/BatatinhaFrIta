@@ -1,0 +1,10 @@
+name: BatatinhaFrIta
+version: '${version}'
+main: org.kauazs.batatinhafrita.BatatinhaFrita
+api-version: '1.21'
+depend:
+  - WorldEdit
+commands:
+  guardas:
+    aliases: [guard]
+    description: Seta um guarda
